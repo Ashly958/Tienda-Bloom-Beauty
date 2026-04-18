@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nombre": "Labial Matte Vogue",
+    "precio": 18000.0,
+    "cantidad": 40
+  },
+  {
+    "id": 2,
+    "nombre": "Base Líquida Maybelline",
+    "precio": 35000.0,
+    "cantidad": 20
+  },
+  {
+    "id": 3,
+    "nombre": "Polvo Compacto Samy",
+    "precio": 25000.0,
+    "cantidad": 30
+  },
+  {
+    "id": 4,
+    "nombre": "Delineador Negro Atenea",
+    "precio": 15000.0,
+    "cantidad": 25
+  },
+  {
+    "id": 5,
+    "nombre": "Rímel Maybelline Sky High",
+    "precio": 30000.0,
+    "cantidad": 15
+  }
+]
